@@ -2,7 +2,7 @@
 
 > **Note:** This project was developed for the 'Introduction to Internet and Web' course at Pusan National University (Freshman 1st Semester, 2023).
 
-## 📺 시현 영상 (Demo Video)
+## 📺 시연 영상 (Demo Video)
 [![Busan Attraction Demo](https://img.youtube.com/vi/8Acivp3nBUQ/0.jpg)](https://youtu.be/8Acivp3nBUQ)
 
 ## 📌 개요 (Overview)
